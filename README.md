@@ -63,5 +63,5 @@ Framework z wykorzystaniem Javy i  REST Asssured przygotowywany w trakcie kursu 
 [mp3-player](https://github.com/Magdaniedz/mp3player)
 Prosta aplikacja desktopowa służąca do odtwarzania utworów MP3. Obejmuje takie funkcje, jak przełączanie między utworami, wstrzymywanie i odtwarzanie. Zastosowana technologia: JAVAFX, Java.
 
-[AC_1_BUG]([https://github.com/Magdaniedz/mp3playe](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_1_BUG.jpg)  [AC_2_BUG](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_2_BUG.jpg) [AC_3_BUG](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_3_BUG.jpg)  [AC_4_BUG](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_4_BUG.jpg)  
+[AC_1_BUG](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_1_BUG.jpg)  [AC_2_BUG](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_2_BUG.jpg) [AC_3_BUG](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_3_BUG.jpg)  [AC_4_BUG](https://github.com/Magdaniedz/tester_portfolio/blob/main/AC_4_BUG.jpg)  
 Przykładowe zgłoszenia błędów jakie wykonałam podczas eksploracji Jiry.
