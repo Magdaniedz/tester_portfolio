@@ -60,7 +60,7 @@ Strona internetowa z informacjami o mnie.Stworzona w HTML.
 [restassured-fk](https://github.com/Magdaniedz/restassured-fk)
 Framework z wykorzystaniem Javy i  REST Asssured przygotowywany w trakcie kursu JavaStart REST Assured ( w trakcie realizacji).
 
-[mp3-player] (https://github.com/Magdaniedz/mp3player)
+[mp3-player](https://github.com/Magdaniedz/mp3player)
 Prosta aplikacja desktopowa służąca do odtwarzania utworów MP3. Obejmuje takie funkcje, jak przełączanie między utworami, wstrzymywanie i odtwarzanie. Zastosowana technologia: JAVAFX, Java.
 
 Przykładowe zgłoszenie błędów jakie wykonałam podczas eksploracja Jiry.
