@@ -63,4 +63,4 @@ Framework z wykorzystaniem Javy i  REST Asssured przygotowywany w trakcie kursu 
 [mp3-player](https://github.com/Magdaniedz/mp3player)
 Prosta aplikacja desktopowa służąca do odtwarzania utworów MP3. Obejmuje takie funkcje, jak przełączanie między utworami, wstrzymywanie i odtwarzanie. Zastosowana technologia: JAVAFX, Java.
 
-Przykładowe zgłoszenie błędów jakie wykonałam podczas eksploracja Jiry.
+Przykładowe zgłoszenia błędów jakie wykonałam podczas eksploracji Jiry.
