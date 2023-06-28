@@ -1,10 +1,3 @@
-### CERTYFIKATY
-
-* A4Q Selenium Certified Tester FL
-* ISTQB Certified Tester FL
-* Java Certificate wystawiony przez JavaStart
-* LCCI IQ in English for Business Level 2 
-
 ### NARZĘDZIA /UMIEJĘTNOŚCI:
 
 * Język programowania: SQL, Java (opanowane podstawy, w trakcie dalszej nauki)
